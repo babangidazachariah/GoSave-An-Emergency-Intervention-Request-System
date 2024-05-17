@@ -1,4 +1,4 @@
-GoSave: An Emergency Intervention Request System
+<h1>GoSave: An Emergency Intervention Request System</h1>
 
 Emergency intervention is necessary to minimize the degree and rate of damage or harm arising from emergency situations. However, intervention effectiveness is a function of timely and effective emergency information. The ability of victims providing timely and effective emergency information may be tempered with during emergency incidents. For example, victim may not be able to make a call, in the event the victim is able to dial a call but unable to speak, it is still not as effective as it should. Thus, GoSave provides emergency categories where a button press says it all.
 
